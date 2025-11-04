@@ -81,6 +81,6 @@ Me considero una persona analítica, perseverante y autodidacta.
 ## 📫 Contacto
 
 -  **rogerramosaw@gmail.com**  
--  [LinkedIn](www.linkedin.com/in/roger-ramos-alejo)  
+-  [LinkedIn](https://www.linkedin.com/in/roger-ramos-alejo/)  
 ---
 *Gracias por visitar mi perfil. Siempre abierto a nuevas oportunidades y desafíos tecnológicos.*
