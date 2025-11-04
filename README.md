@@ -2,8 +2,8 @@
 
 Soy estudiante de Ingeniería en Sistemas de Información en la UTN - FRBA, apasionado por la Ciencia de Datos, la Inteligencia Artificial y el Machine Learning.
 
-Actualmente, me especializo en el desarrollo de soluciones basadas en datos, aplicando técnicas de machine learning, estadística y visualización para apoyar la toma de decisiones estratégicas.
-Me apasiona integrar mis habilidades técnicas con una visión estratégica para contribuir al desarrollo de soluciones sostenibles, buscando optimizar tanto el rendimiento técnico como el impacto en el negocio.
+Actualmente, me especializo en el desarrollo de soluciones basadas en datos, aplicando técnicas de machine learning, estadística y visualización atraves de proyectos personales.
+Me apasiona integrar mis habilidades técnicas con una visión estratégica para contribuir al desarrollo de soluciones sostenibles.
 Me considero una persona analítica, perseverante y autodidacta. 
 
 ---
