@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Roger Ramos
+# 👋 ¡Hi, I'm Roger Ramos!
 
-Soy estudiante de Ingeniería en Sistemas de Información en la UTN - FRBA, apasionado por la Ciencia de Datos, la Inteligencia Artificial y el Machine Learning.
+I am an Information Systems Engineering student at UTN - FRBA, passionate about Data Science, Artificial Intelligence, and Machine Learning.
 
-Actualmente, me especializo en el desarrollo de soluciones basadas en datos, aplicando técnicas de machine learning, estadística y visualización atraves de proyectos personales.
-Me apasiona integrar mis habilidades técnicas con una visión estratégica para contribuir al desarrollo de soluciones sostenibles.
-Me considero una persona analítica, perseverante y autodidacta. 
+Currently, I specialize in developing data-driven solutions, applying machine learning, statistical, and visualization techniques through personal projects.
+I am passionate about integrating my technical skills with a strategic vision to contribute to the development of sustainable solutions.
+I consider myself an analytical, persevering, and self-taught individual.
 
 ---
 
@@ -78,9 +78,9 @@ Me considero una persona analítica, perseverante y autodidacta.
 </p>
 
 
-## 📫 Contacto
+## 📫 Contact
 
 -  **rogerramosaw@gmail.com**  
 -  [LinkedIn](https://www.linkedin.com/in/roger-ramos-alejo/)  
 ---
-*Gracias por visitar mi perfil. Siempre abierto a nuevas oportunidades y desafíos tecnológicos.*
+*Thank you for visiting my profile. Always open to new opportunities and technological challenges.*
