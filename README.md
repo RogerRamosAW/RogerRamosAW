@@ -66,17 +66,22 @@ I consider myself an analytical, persevering, and self-taught individual.
 </p>
 
 ## 🚀 Projects
-
+  
 <p align="center">
   <a href="https://github.com/RogerRamosAW/simulacion-barras-festival">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RogerRamosAW&repo=simulacion-barras-festival&theme=tokyonight" />
+    <img
+      align="center"
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RogerRamosAW&repo=simulacion-barras-festival&theme=tokyonight&cache_seconds=86400"
+    />
   </a>
   
   <a href="https://github.com/RogerRamosAW/TP-Gestion-de-Datos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RogerRamosAW&repo=TP-Gestion-de-Datos&theme=tokyonight" />
+    <img
+      align="center"
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RogerRamosAW&repo=TP-Gestion-de-Datos&theme=tokyonight&cache_seconds=86400"
+    />
   </a>
 </p>
-
 
 ## 📫 Contact
 
